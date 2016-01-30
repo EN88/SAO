@@ -1,0 +1,3 @@
+licznik czasu, co 30 sekund godzina++
+i odpala funkcje dzienczynoc() która jesli godzina jest z przedzialu 23-5 to jest sciemniejszy okran jesli 6-22 to jasny ekran i dodatkowo
+sprawdza czy godzina jest >= 24 jesli tak to godzina = 1 wiêc nie przekroczy zegara 24h. 
